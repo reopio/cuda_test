@@ -1,2 +1,2 @@
 # cuda_test
-test code for cuda
+This repository is to note my test codes for cuda.
